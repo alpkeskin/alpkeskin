@@ -11,4 +11,5 @@ Also my website: [a1p.space](https://a1p.space/)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpkeskin&repo=mosint)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpkeskin&repo=Chegg-Discord-Bot)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mysecurityanalytics&repo=auto-mail-osint-api
+)
