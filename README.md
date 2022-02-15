@@ -19,3 +19,6 @@ How to reach me:  `0n1co@protonmail.com`
 
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alpkeskin/)](https://www.linkedin.com/in/alpkeskin/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@alpkeskin)](https://medium.com/@alpkeskin) [![GitHub Follow Badge](https://img.shields.io/github/followers/alpkeskin?label=follow&style=social)](https://github.com/alpkeskin)
