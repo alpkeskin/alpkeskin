@@ -1,11 +1,11 @@
-# `./hi`
+# `$ hi`
 
 
 ![hacking yey](https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif)
 
-I'm Alp from Turkey.
+I'm Alp from Turkey :tr:
 
-How to reach me:  `imalp.co`
+How to reach me:  `be creative!`
 
 
 
