@@ -6,6 +6,7 @@
 I'm Alp from Turkey :tr:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alpkeskin/)](https://www.linkedin.com/in/alpkeskin/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@alpkeskin)](https://medium.com/@alpkeskin) [![GitHub Follow Badge](https://img.shields.io/github/followers/alpkeskin?label=follow&style=social)](https://github.com/alpkeskin)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alpkeskin)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/alpkeskindev)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alpkeskin)
 
-![Codewars Badge](https://www.codewars.com/users/alpkeskin/badges/large/)
